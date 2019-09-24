@@ -27,3 +27,6 @@
 *.exe
 *.out
 *.app
+
+# Entire output directory
+bin/
